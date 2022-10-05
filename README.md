@@ -1,3 +1,2 @@
-# CS4218codebase
-
-codebase for CS4218, 21/22 Sem2
+# Shell Application
+Re-creating a Linux Shell using Java, incorporating multiple types of software testing techniques
